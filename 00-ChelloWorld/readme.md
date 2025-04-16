@@ -1,4 +1,5 @@
 Front page de la resolución
+
 Compilador seleccionado:
   gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0
   Copyright (C) 2016 Free Software Foundation, Inc.
